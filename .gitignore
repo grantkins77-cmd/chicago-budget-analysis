@@ -1,0 +1,5 @@
+.env
+chicago_budget.db
+output/~$chicago_budget_report.xlsx
+.DS_Store
+__pycache__/
